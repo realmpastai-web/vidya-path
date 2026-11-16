@@ -1,0 +1,47 @@
+name: Discover channels and playlists
+
+# Uses the YOUTUBE_API_KEY secret to look up channel ids and list the playlists of approved
+# channels, then commits the proposals to catalog/ for a person to review. Approves nothing.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['catalog/channels.json', '.github/workflows/discover.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    env:
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Suggest ids for channels that have none
+        run: node scripts/suggest-channels.mjs
+      - name: List playlists of approved channels
+        run: |
+          if grep -q '"status": "approved"' catalog/channels.json; then
+            node scripts/discover.mjs
+          else
+            echo "No approved channels yet; skipping playlist discovery."
+          fi
+      - name: Commit the proposals
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit --quiet -m "Update catalog proposals"
+            git push --quiet
+          fi
