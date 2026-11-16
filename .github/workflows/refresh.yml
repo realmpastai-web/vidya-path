@@ -1,0 +1,52 @@
+name: Refresh index and publish
+
+# Rebuilds the video index and publishes the finished site to the "deploy" branch.
+# Hostinger pulls that branch into public_html (see README, "Putting it on Hostinger").
+on:
+  schedule:
+    - cron: '30 21 * * 0' # Mondays 03:00 India time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['catalog/**', 'site/**', 'scripts/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm test
+      - name: Build the index
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/build-index.mjs
+      - name: Publish to the deploy branch
+        env:
+          REMOTE: https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
+        run: |
+          if ! git clone --quiet --depth 1 --branch deploy "$REMOTE" out; then
+            git init --quiet --initial-branch deploy out
+            git -C out remote add origin "$REMOTE"
+          fi
+          find out -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a site/. out/
+          cd out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit --quiet -m "Publish $(date -u +%F)"
+            git push --quiet origin deploy
+          fi
