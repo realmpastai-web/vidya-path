@@ -5,7 +5,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: उत्तराखंड कक्षा 10 । विज्ञान (21 videos)"
   },
   {
@@ -14,7 +14,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: उत्तराखंड कक्षा 9 । विज्ञान (16 videos)"
   },
   {
@@ -32,7 +32,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 10:एनसीईआरटी गणित (NCERT Mathematics) (7 videos)"
   },
   {
@@ -41,7 +41,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 9: एनसीईआरटी गणित (NCERT Mathematics) (13 videos)"
   },
   {
@@ -104,7 +104,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 8 | विज्ञान (91 videos)"
   },
   {
@@ -113,7 +113,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 8: एनसीईआरटी गणित (NCERT Mathematics) (11 videos)"
   },
   {
@@ -122,7 +122,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 7: एनसीईआरटी गणित (NCERT Mathematics) (35 videos)"
   },
   {
@@ -131,7 +131,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 6: एनसीईआरटी गणित (NCERT Mathematics) (37 videos)"
   },
   {
@@ -140,7 +140,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 7 | विज्ञान (68 videos)"
   },
   {
@@ -149,7 +149,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 6 | विज्ञान (66 videos)"
   },
   {
@@ -509,7 +509,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: 1 से 100 तक की संख्याएँ | कक्षा 1 (गणित) (1 videos)"
   },
   {
@@ -518,7 +518,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: ज्यामिति (geometry) और मापन (measurement) | कक्षा 1 (गणित) (2 videos)"
   },
   {
@@ -527,7 +527,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: 10 से 20 तक की संख्याएँ | कक्षा 1 (गणित) (12 videos)"
   },
   {
@@ -536,7 +536,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: 1 से 9 तक की संख्याएँ | कक्षा 1 (गणित) (17 videos)"
   },
   {
@@ -545,7 +545,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: जोड़ना (addition) और घटाना (subtraction) समूह (group) बनाकर | कक्षा 2 (गणित) (11 videos)"
   },
   {
@@ -554,7 +554,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: जोड़ना (addition) और घटाना (subtraction) बिना समूह बनाए | कक्षा 2 (गणित) (11 videos)"
   },
   {
@@ -563,7 +563,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: ज्यामिति (geometry) और मापन (measurement) | कक्षा 2 (गणित) (2 videos)"
   },
   {
@@ -572,7 +572,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: ज्यामिति (geometry) और मापन (measurement) | कक्षा 3 (गणित) (2 videos)"
   },
   {
@@ -581,7 +581,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: विभाजन | कक्षा 3 (गणित) (5 videos)"
   },
   {
@@ -590,7 +590,7 @@
     "lang": "hi",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: 1-100 तक संख्याएँ | कक्षा 2 (गणित) (5 videos)"
   },
   {
@@ -599,7 +599,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: समूह बनाकर जोड़ना और घटाना | कक्षा 3 (गणित) (11 videos)"
   },
   {
@@ -608,7 +608,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: गुणन | कक्षा 3 (गणित) (8 videos)"
   },
   {
@@ -617,7 +617,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: 1 से 1000 तक की संख्याएँ | कक्षा 3 (गणित) (4 videos)"
   },
   {
@@ -626,7 +626,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: जोड़ना और घटाना बिना समूह बनाये | कक्षा 3 (गणित) (7 videos)"
   },
   {
@@ -635,7 +635,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: आधे और चौथाई | कक्षा 4 (गणित) (2 videos)"
   },
   {
@@ -644,7 +644,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: स्मार्ट चार्ट | कक्षा 4 (गणित) (4 videos)"
   },
   {
@@ -653,7 +653,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: समय | कक्षा 4 (गणित) (2 videos)"
   },
   {
@@ -662,7 +662,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: क्षेत्रफल और उसकी परिसीमा | कक्षा 5 (गणित) (8 videos)"
   },
   {
@@ -671,7 +671,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: पैटर्न पहचाने | कक्षा 5 (गणित) (4 videos)"
   },
   {
@@ -680,7 +680,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: स्मार्ट चार्ट | कक्षा 5 (गणित) (4 videos)"
   },
   {
@@ -689,7 +689,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: हिस्से और पूरे (भिन्न) | कक्षा 5 (गणित) (8 videos)"
   },
   {
@@ -698,7 +698,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: दशांश और शतांश (दशमलव) | कक्षा 5 (गणित) (8 videos)"
   },
   {
@@ -707,7 +707,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 09 Math 2020 (9 videos)"
   },
   {
@@ -716,7 +716,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: विभाजन | कक्षा 5 (गणित) (8 videos)"
   },
   {
@@ -725,7 +725,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: गुणन | कक्षा 5 (गणित) (6 videos)"
   },
   {
@@ -734,7 +734,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: विभाजन | कक्षा 4 (गणित) (4 videos)"
   },
   {
@@ -743,7 +743,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: गुणन | कक्षा 4 (गणित) (11 videos)"
   },
   {
@@ -752,7 +752,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: जोड़ना और घटाना | कक्षा 4 (गणित) (3 videos)"
   },
   {
@@ -761,7 +761,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: जोड़ना और घटाना | कक्षा 5 (गणित) (4 videos)"
   },
   {
@@ -770,7 +770,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 07 Math (40 videos)"
   },
   {
@@ -779,7 +779,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 08 Math (73 videos)"
   },
   {
@@ -788,7 +788,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: एक चर वाले रैखिक समीकरण-कक्षा 8-गणित (13 videos)"
   },
   {
@@ -797,7 +797,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: परिमेय संख्याएं - कक्षा 8 - गणित (5 videos)"
   },
   {
@@ -806,7 +806,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 15 - प्रायिकता (8 videos)"
   },
   {
@@ -815,7 +815,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 13 - पृष्ठीय क्षेत्रफल और आयतन (5 videos)"
   },
   {
@@ -824,7 +824,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 11 - रचनाएँ (2 videos)"
   },
   {
@@ -833,7 +833,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 10 - वृत (9 videos)"
   },
   {
@@ -842,7 +842,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 09 - त्रिकोणमिती के कुछ अनुप्रयोग (3 videos)"
   },
   {
@@ -851,7 +851,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 08 - त्रिकोणमिती से परिचय (18 videos)"
   },
   {
@@ -860,7 +860,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 07 - निर्देशांक ज्यामिति (13 videos)"
   },
   {
@@ -869,7 +869,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 06 - त्रिभुज (17 videos)"
   },
   {
@@ -878,7 +878,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 05 - समांतर श्रेणी (13 videos)"
   },
   {
@@ -887,7 +887,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 04 - द्विघात व्यंजक (26 videos)"
   },
   {
@@ -896,7 +896,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 03 - दो चरों वाले रैखिक समीकरणों का युग्म (29 videos)"
   },
   {
@@ -905,7 +905,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 01 - वास्तविक संख्याएँ (14 videos)"
   },
   {
@@ -914,7 +914,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 12 - वृत्तों से संबंधित क्षेत्रफल (7 videos)"
   },
   {
@@ -923,7 +923,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 10 Math - 02 - बहुपद (10 videos)"
   },
   {
@@ -932,7 +932,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - हीरोन का सूत्र (1 videos)"
   },
   {
@@ -941,7 +941,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - रचनाएँ (2 videos)"
   },
   {
@@ -950,7 +950,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - रेखा और कोण (11 videos)"
   },
   {
@@ -959,7 +959,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - वृत्त (15 videos)"
   },
   {
@@ -968,7 +968,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - समांतर चतुर्भुज और त्रिभुजों का क्षेत्रफल (4 videos)"
   },
   {
@@ -977,7 +977,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - चतुर्भुज (12 videos)"
   },
   {
@@ -986,7 +986,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - त्रिभुज (11 videos)"
   },
   {
@@ -995,7 +995,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - दो चर वाले रैखिक समीकरण (5 videos)"
   },
   {
@@ -1004,7 +1004,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - पृष्ठीय क्षेत्रफल और आयतन (13 videos)"
   },
   {
@@ -1013,7 +1013,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - सांख्यिकी (17 videos)"
   },
   {
@@ -1022,7 +1022,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: Grade 9 Math - 2019 (57 videos)"
   },
   {
@@ -1031,7 +1031,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 6 गणित| खान अकेडमी (48 videos)"
   },
   {
@@ -1040,7 +1040,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 8 गणित| खान अकेडमी (36 videos)"
   },
   {
@@ -1049,7 +1049,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy India - Hindi: कक्षा 7 गणित| खान अकेडमी (42 videos)"
   },
   {
@@ -1175,7 +1175,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Jigyasa (Science) Class 8 (13 videos)"
   },
   {
@@ -1355,7 +1355,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Ganita Manjari (Mathematics) Class 9 (8 videos)"
   },
   {
@@ -1418,7 +1418,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Ganit Prakash Part-2 (Mathematics) Class 7 (8 videos)"
   },
   {
@@ -1526,7 +1526,7 @@
     "lang": "hi",
     "level": "primary",
     "subject": "life",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Khel Yoga Class 5 (8 videos)"
   },
   {
@@ -1724,7 +1724,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Ganit Prakash(Mathematics) Class 7 (21 videos)"
   },
   {
@@ -2237,7 +2237,7 @@
     "lang": "hi",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Ganit Prakash (Mathematics) Class 6 (27 videos)"
   },
   {
@@ -3614,7 +3614,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Class 10 Lab Manual Experiment (Hindi) (23 videos)"
   },
   {
@@ -3623,7 +3623,7 @@
     "lang": "hi",
     "level": "secondary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "NCERT Official: Class 9 Lab Manual Experiment (Hindi) (14 videos)"
   },
   {
@@ -5295,18 +5295,18 @@
     "playlistId": "PL_YQntlygLzYpYpPvOmc9Fqr6WWjJoA9x",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Magical stories - Hindi (4 videos)"
   },
   {
     "playlistId": "PL_YQntlygLzZLeTuqX_GlnCKPVPUuB7df",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Funny stories - Hindi (5 videos)"
   },
   {
@@ -5322,9 +5322,9 @@
     "playlistId": "PL_YQntlygLzbXOSUYT1uDO5UxzwGv35ZF",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Dog stories - Hindi (4 videos)"
   },
   {
@@ -5340,18 +5340,18 @@
     "playlistId": "PL_YQntlygLzbMW3T2uKyUJ2qwhiDWZ_6K",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Animal stories - Hindi (17 videos)"
   },
   {
     "playlistId": "PL_YQntlygLzYF4wCBzx5qP5amzy1FFUiA",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Adventure stories- Hindi (17 videos)"
   },
   {
@@ -5360,7 +5360,7 @@
     "lang": "hi",
     "level": "start",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Nursery Rhymes - Hindi (12 videos)"
   },
   {
@@ -5403,9 +5403,9 @@
     "playlistId": "PL_YQntlygLzZExzY9FcbbREgYlPJt85z9",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "primary",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Hindi 'Level 4' BookBox Stories (16 videos)"
   },
   {
@@ -5430,27 +5430,27 @@
     "playlistId": "PL_YQntlygLzb3TrKVWBHwNcWaX28nQDG4",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "primary",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Hindi 'Level 3' BookBox Stories (38 videos)"
   },
   {
     "playlistId": "PL_YQntlygLzagIAN5nYo0ee6G4cpkJx35",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Hindi 'Level 2' BookBox Stories (53 videos)"
   },
   {
     "playlistId": "PL_YQntlygLzYbYhRPvTi9DpHgddFKf3mY",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Hindi 'Level 1' BookBox Stories (24 videos)"
   },
   {
@@ -5475,9 +5475,9 @@
     "playlistId": "PL_YQntlygLzagDW5rmdQ6oKssMGUftTy1",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Stories for Kids in Hindi-Watch and Learn with BookBox (38 videos)"
   },
   {
@@ -5493,9 +5493,9 @@
     "playlistId": "PL_YQntlygLzZhdqfBB3cizivSmoV51C9j",
     "channelId": "UCmqBU9X2YhFfnaZOwhACiNw",
     "lang": "hi",
-    "level": "TODO",
+    "level": "foundation",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "BookBox Hindi: Cheeku stories - Hindi (5 videos)"
   },
   {
@@ -5628,9 +5628,9 @@
     "playlistId": "PLQUyvcsu1vTUP8PpFnSURfa69o4JhXJZn",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 7th - Kannada Medium - Maths (11 videos)"
   },
   {
@@ -5664,9 +5664,9 @@
     "playlistId": "PLQUyvcsu1vTXFf3CrSbx_z4WsUCPPfJ6e",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "middle",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 7th-Kannada Medium- General Science (18 videos)"
   },
   {
@@ -5691,9 +5691,9 @@
     "playlistId": "PLQUyvcsu1vTXigLpHZ2fzgZrN49C72Ka-",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 6th - Kannada Medium - Maths (16 videos)"
   },
   {
@@ -5718,9 +5718,9 @@
     "playlistId": "PLQUyvcsu1vTUqwpai8M9Ekz5V-ImcLuUQ",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "middle",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 6TH-Kannada Medium- General Science (17 videos)"
   },
   {
@@ -5745,9 +5745,9 @@
     "playlistId": "PLQUyvcsu1vTWXpXro4W_k9XRToPcplsCJ",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 5th-Kannada Medium - Maths (26 videos)"
   },
   {
@@ -5763,9 +5763,9 @@
     "playlistId": "PLQUyvcsu1vTUZ-l3qtnXclViHnm_IuZWg",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "DSERT Karnataka: 5th-Kannada Medium-Environmental Studies (13 videos)"
   },
   {
@@ -5835,9 +5835,9 @@
     "playlistId": "PLQUyvcsu1vTUvMduG2M-WkOHzO5GIYASp",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "middle",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 8th - Science (37 videos)"
   },
   {
@@ -5853,9 +5853,9 @@
     "playlistId": "PLQUyvcsu1vTXVbf-go4qYabNmzDu157_l",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 8th - Mathematics (32 videos)"
   },
   {
@@ -5918,7 +5918,7 @@
     "lang": "kn",
     "level": "secondary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 9th Class Science (39 videos)"
   },
   {
@@ -5934,9 +5934,9 @@
     "playlistId": "PLQUyvcsu1vTXr4FTFPNsMKvz05kuWeY2t",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 9th Mathematics (49 videos)"
   },
   {
@@ -6024,9 +6024,9 @@
     "playlistId": "PLQUyvcsu1vTVwZek-JBxiyMXa-84zM_3q",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "secondary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 10 KM Science (53 videos)"
   },
   {
@@ -6114,9 +6114,9 @@
     "playlistId": "PLQUyvcsu1vTWX7E3kPYmW0L4HmRADNnA9",
     "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ",
     "lang": "kn",
-    "level": "TODO",
+    "level": "secondary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "DSERT Karnataka: 10 KM mathematics (60 videos)"
   },
   {
@@ -6206,7 +6206,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "reading",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: 8th grade reading and vocabulary | Khan Academy (30 videos)"
   },
   {
@@ -6251,7 +6251,7 @@
     "lang": "en",
     "level": "secondary",
     "subject": "reading",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: 9th grade reading and vocabulary | Khan Academy (14 videos)"
   },
   {
@@ -6296,7 +6296,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: 6th grade (Illustrative Mathematics-aligned) (22 videos)"
   },
   {
@@ -6305,7 +6305,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: 8th grade math (IM® v.360 aligned) (41 videos)"
   },
   {
@@ -6314,7 +6314,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: 7th grade math (IM® v.360 aligned) (67 videos)"
   },
   {
@@ -6368,7 +6368,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: 3rd grade math | Khan Academy (15 videos)"
   },
   {
@@ -7502,7 +7502,7 @@
     "lang": "en",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Whole numbers | 2nd Grade | Khan Academy (1 videos)"
   },
   {
@@ -7538,7 +7538,7 @@
     "lang": "en",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Geometry | 2nd Grade | Khan Academy (3 videos)"
   },
   {
@@ -7691,7 +7691,7 @@
     "lang": "en",
     "level": "start",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Counting and place value | Kindergarten | Khan Academy (12 videos)"
   },
   {
@@ -7709,7 +7709,7 @@
     "lang": "en",
     "level": "start",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Measurement and geometry | Kindergarten | Khan Academy (3 videos)"
   },
   {
@@ -7745,7 +7745,7 @@
     "lang": "en",
     "level": "foundation",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Geometry | 1st Grade | Khan Academy (3 videos)"
   },
   {
@@ -8519,7 +8519,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Fractions | 4th Grade | Khan Academy (31 videos)"
   },
   {
@@ -8546,7 +8546,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Geometry | 4th Grade | Khan Academy (26 videos)"
   },
   {
@@ -8609,7 +8609,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Fractions | 3rd Grade | Khan Academy (15 videos)"
   },
   {
@@ -8618,7 +8618,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Measurement and geometry | 3rd Grade | Khan Academy (21 videos)"
   },
   {
@@ -8798,7 +8798,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Arithmetic operations | 5th Grade | Khan Academy (20 videos)"
   },
   {
@@ -8807,7 +8807,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Fractions | 5th Grade | Khan Academy (30 videos)"
   },
   {
@@ -8834,7 +8834,7 @@
     "lang": "en",
     "level": "primary",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Geometry | 5th Grade | Khan Academy (7 videos)"
   },
   {
@@ -8843,7 +8843,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Numbers and operations | 8th Grade | Khan Academy (33 videos)"
   },
   {
@@ -8879,7 +8879,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Geometry | 8th Grade | Khan Academy (39 videos)"
   },
   {
@@ -8897,7 +8897,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Negative numbers: addition and subtraction | 7th Grade | Khan Academy (32 videos)"
   },
   {
@@ -8906,7 +8906,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Negative numbers: multiplication and division | 7th Grade | Khan Academy (22 videos)"
   },
   {
@@ -8915,7 +8915,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Fractions, decimals, and percentages | 7th Grade | Khan Academy (18 videos)"
   },
   {
@@ -8942,7 +8942,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Geometry | 7th Grade | Khan Academy (38 videos)"
   },
   {
@@ -9257,7 +9257,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Arithmetic operations | 6th Grade | Khan Academy (32 videos)"
   },
   {
@@ -9266,7 +9266,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Negative numbers | 6th Grade | Khan Academy (27 videos)"
   },
   {
@@ -9275,7 +9275,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Properties of numbers | 6th Grade | Khan Academy (6 videos)"
   },
   {
@@ -9302,7 +9302,7 @@
     "lang": "en",
     "level": "middle",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy: Geometry | 6th Grade | Khan Academy (18 videos)"
   },
   {
@@ -11046,18 +11046,18 @@
     "playlistId": "PLsO1jePSb_qn-OKcNbf4_BsdQWx2HXRCz",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "start",
+    "subject": "maths",
+    "status": "approved",
     "note": "Khan Academy Kids: Place Value (12 videos)"
   },
   {
     "playlistId": "PLsO1jePSb_qmU4lr8fT6e1MRArVShQsqu",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "start",
+    "subject": "maths",
+    "status": "approved",
     "note": "Khan Academy Kids: Numeral Recognition (6 videos)"
   },
   {
@@ -11100,9 +11100,9 @@
     "playlistId": "PLsO1jePSb_qm9GE0nKvROEpBPnTI01AsH",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
+    "level": "start",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy Kids: Counting 1 - 20 (17 videos)"
   },
   {
@@ -11118,9 +11118,9 @@
     "playlistId": "PLsO1jePSb_qlJcUFp5nSCfJCIcNoGw1tD",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
+    "level": "start",
     "subject": "stories",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy Kids: Story Time (21 videos)"
   },
   {
@@ -11136,9 +11136,9 @@
     "playlistId": "PLsO1jePSb_qkVwHE__2DIQqXhvGwu4WZB",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "start",
+    "subject": "maths",
+    "status": "approved",
     "note": "Khan Academy Kids: Addition and Subtraction (15 videos)"
   },
   {
@@ -11154,9 +11154,9 @@
     "playlistId": "PLsO1jePSb_qkBh8Ty_UmIWGv9GDFpfbI8",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
+    "level": "start",
     "subject": "reading",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy Kids: Reading Comprehension (24 videos)"
   },
   {
@@ -11190,54 +11190,54 @@
     "playlistId": "PLsO1jePSb_qmxeHkvhh1Y3lh6GcQKIUNy",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "start",
+    "subject": "reading",
+    "status": "approved",
     "note": "Khan Academy Kids: Sight Words (23 videos)"
   },
   {
     "playlistId": "PLsO1jePSb_qk4CZ8DQkcNCP3gEJIdzA0Z",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
+    "level": "start",
     "subject": "reading",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy Kids: Letters and Letter Sounds (26 videos)"
   },
   {
     "playlistId": "PLsO1jePSb_qkTeQnDLa2YM6OqHbzZhyxU",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "start",
+    "subject": "reading",
+    "status": "approved",
     "note": "Khan Academy Kids: Vowel Teams (6 videos)"
   },
   {
     "playlistId": "PLsO1jePSb_qmCRJHjjc1OCsvVxedfz5Hd",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "start",
+    "subject": "reading",
+    "status": "approved",
     "note": "Khan Academy Kids: Vowels (6 videos)"
   },
   {
     "playlistId": "PLsO1jePSb_qkyxeYzeypGeAvLzwHnvbja",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "start",
+    "subject": "maths",
+    "status": "approved",
     "note": "Khan Academy Kids: Shapes (5 videos)"
   },
   {
     "playlistId": "PLsO1jePSb_qnk8f2r7i7kB1Plim3gy6hF",
     "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
     "lang": "en",
-    "level": "TODO",
+    "level": "start",
     "subject": "maths",
-    "status": "candidate",
+    "status": "approved",
     "note": "Khan Academy Kids: Counting 1-10 (10 videos)"
   },
   {
@@ -11361,9 +11361,9 @@
     "playlistId": "PLw2cuKNQvZ2eD-j3AO51aA68nypFkKmpl",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "SciShow Kids: Science in the Garden! | SciShow Kids (20 videos)"
   },
   {
@@ -11388,9 +11388,9 @@
     "playlistId": "PLw2cuKNQvZ2csNcnFdEnOyEi-VN4j6k3E",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "SciShow Kids: Science at the Beach! | NGSS Grades 1-3 | SciShow Kids (8 videos)"
   },
   {
@@ -11433,9 +11433,9 @@
     "playlistId": "PLw2cuKNQvZ2cVCz6FWKqXCyCouiDMfRNj",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "SciShow Kids: Messy Summer Experiments! | NGSS Grades 1-3 | SciShow Kids (3 videos)"
   },
   {
@@ -11487,9 +11487,9 @@
     "playlistId": "PLw2cuKNQvZ2ch7nV6GAYBo4cZssNLHQ3_",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "SciShow Kids: The Science of Food! | NGSS Grades 1-3 | SciShow Kids (6 videos)"
   },
   {
@@ -11514,9 +11514,9 @@
     "playlistId": "PLw2cuKNQvZ2enC9DlbmOHPqOrP5Vin2tW",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "SciShow Kids: How Weather Works! | A SciShow Kids Playlist (13 videos)"
   },
   {
@@ -11604,9 +11604,9 @@
     "playlistId": "PLw2cuKNQvZ2c3y2d2hcS5mZ611VvgrAg6",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "SciShow Kids: Science In The Kitchen! (25 videos)"
   },
   {
@@ -11631,9 +11631,9 @@
     "playlistId": "PLw2cuKNQvZ2d0uOg1KdvYS9VrSJaYICcW",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "SciShow Kids: Super Simple Machines! (8 videos)"
   },
   {
@@ -11658,9 +11658,9 @@
     "playlistId": "PLw2cuKNQvZ2fXJknglIaMsvVImhkcN8Ia",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "SciShow Kids: Exciting Experiments! | SciShow Kids (54 videos)"
   },
   {
@@ -11685,9 +11685,9 @@
     "playlistId": "PLw2cuKNQvZ2fGhXTNZBBFX5R5yc7sde8N",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "SciShow Kids: All About Us! (Humans) - SciShow Kids (61 videos)"
   },
   {
@@ -11712,45 +11712,45 @@
     "playlistId": "PLw2cuKNQvZ2eCjKUIUUSLiZ6AoTU6OQ78",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "SciShow Kids: Science on the Playground! - SciShow Kids (14 videos)"
   },
   {
     "playlistId": "PLw2cuKNQvZ2e8_cKWWgRReLYiIH5XBme1",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "SciShow Kids: Explore Our Planet! | SciShow Kids (64 videos)"
   },
   {
     "playlistId": "PLw2cuKNQvZ2egfF7QNfnVOUAHhwmxGxBc",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "SciShow Kids: Watch it Grow! - SciShow Kids (33 videos)"
   },
   {
     "playlistId": "PLw2cuKNQvZ2d9b3Wqhu32dkjX28qokaiA",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "SciShow Kids: Awesome Animals! | SciShow Kids (139 videos)"
   },
   {
     "playlistId": "PLw2cuKNQvZ2c5UQcwMS4Fg05UdiT3-gs4",
     "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "SciShow Kids: Let's Go To Space! | SciShow Kids (45 videos)"
   },
   {
@@ -11793,63 +11793,63 @@
     "playlistId": "PLhz12vamHOnZ4ZDC0dS6C9HRN5Qrm0jHO",
     "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
     "lang": "en",
-    "level": "TODO",
-    "subject": "TODO",
-    "status": "candidate",
+    "level": "primary",
+    "subject": "science",
+    "status": "approved",
     "note": "Crash Course Kids: Engineering: The Engineering Process (17 videos)"
   },
   {
     "playlistId": "PLhz12vamHOna6ySCBRBGgCLLoTbMgqMzd",
     "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Crash Course Kids: Space Science: Introduction to Stars (6 videos)"
   },
   {
     "playlistId": "PLhz12vamHOnagseIgy26MoPI79NXiFBwN",
     "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Crash Course Kids: Space Science: The Sun and Its Influence on Earth (14 videos)"
   },
   {
     "playlistId": "PLhz12vamHOnYXbP8_-PnzYDP3ibgdfH_4",
     "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Crash Course Kids: Physical Science: Introduction to Gravity (6 videos)"
   },
   {
     "playlistId": "PLhz12vamHOnaY7nvpgtQ0SIbuJdC4HA5O",
     "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Crash Course Kids: Physical Science: Properties of Matter (16 videos)"
   },
   {
     "playlistId": "PLhz12vamHOnYmvLSYtQvuxDrWSi795yDa",
     "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Crash Course Kids: Earth Science: Earth's Spheres and Natural Resources (23 videos)"
   },
   {
     "playlistId": "PLhz12vamHOnZv8kM6Xo6AbluwIIVpulio",
     "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
     "lang": "en",
-    "level": "TODO",
+    "level": "primary",
     "subject": "science",
-    "status": "candidate",
+    "status": "approved",
     "note": "Crash Course Kids: Life Science: Ecosystems and Flow of Energy (13 videos)"
   }
 ]
