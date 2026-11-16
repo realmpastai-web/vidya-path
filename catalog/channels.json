@@ -1,23 +1,21 @@
 [
-  { "name": "Khan Academy India - Hindi", "lang": "hi", "focus": "Maths and science, class 1-10, mapped to NCERT", "channelId": "", "status": "candidate" },
-  { "name": "NCERT Official", "lang": "hi", "focus": "Government school content across subjects", "channelId": "", "status": "candidate" },
+  { "name": "Khan Academy India - Hindi", "lang": "hi", "focus": "Maths and science, class 1-10, mapped to NCERT", "channelId": "UCR_faRupOZjPVB0rAg4sxRQ", "status": "approved" },
+  { "name": "NCERT Official", "lang": "hi", "focus": "Government school content across subjects", "channelId": "UCT0s92hGjqLX6p7qY9BBrSA", "status": "approved" },
   { "name": "PM eVidya (class-wise channels)", "lang": "hi", "focus": "Government class-wise lessons, class 1-10", "channelId": "", "status": "candidate" },
   { "name": "Pratham Open School / PraDigi", "lang": "hi", "focus": "Foundational reading and maths for out-of-school children", "channelId": "", "status": "candidate" },
   { "name": "Arvind Gupta (Toys from Trash) - Hindi", "lang": "hi", "focus": "Science experiments with scrap materials", "channelId": "", "status": "candidate" },
-  { "name": "BookBox Hindi", "lang": "hi", "focus": "Animated stories with same-language subtitles for early readers", "channelId": "", "status": "candidate" },
+  { "name": "BookBox Hindi", "lang": "hi", "focus": "Animated stories with same-language subtitles for early readers", "channelId": "UCmqBU9X2YhFfnaZOwhACiNw", "status": "approved" },
   { "name": "Magnet Brains", "lang": "hi", "focus": "Free full-course lessons by class; check for coaching promotion", "channelId": "", "status": "candidate" },
-
   { "name": "Khan Academy Kannada", "lang": "kn", "focus": "Maths and science lessons in Kannada", "channelId": "", "status": "candidate" },
-  { "name": "DSERT Karnataka", "lang": "kn", "focus": "State board class-wise lessons", "channelId": "", "status": "candidate" },
+  { "name": "DSERT Karnataka", "lang": "kn", "focus": "State board class-wise lessons", "channelId": "UCzH3a1-CZoye8GjrlRpxbnQ", "status": "approved" },
   { "name": "Meghshala", "lang": "kn", "focus": "Karnataka state syllabus lessons made for teachers", "channelId": "", "status": "candidate" },
   { "name": "Arvind Gupta (Toys from Trash) - Kannada", "lang": "kn", "focus": "Science experiments with scrap materials", "channelId": "", "status": "candidate" },
   { "name": "BookBox Kannada", "lang": "kn", "focus": "Animated stories with same-language subtitles", "channelId": "", "status": "candidate" },
   { "name": "Infobells Kannada", "lang": "kn", "focus": "Rhymes and stories; commercial channel, check for ads and toy promotion", "channelId": "", "status": "candidate" },
-
-  { "name": "Khan Academy", "lang": "en", "focus": "Maths, science and computing", "channelId": "", "status": "candidate" },
-  { "name": "Khan Academy Kids", "lang": "en", "focus": "Early learning: letters, numbers, stories", "channelId": "", "status": "candidate" },
+  { "name": "Khan Academy", "lang": "en", "focus": "Maths, science and computing", "channelId": "UC4a-Gbdw7vOaccHmFo40b9g", "status": "approved" },
+  { "name": "Khan Academy Kids", "lang": "en", "focus": "Early learning: letters, numbers, stories", "channelId": "UC2ri4rEb8abnNwXvTjg5ARw", "status": "approved" },
   { "name": "Code.org", "lang": "en", "focus": "How computers and AI work, for school children", "channelId": "", "status": "candidate" },
-  { "name": "SciShow Kids", "lang": "en", "focus": "Primary science explained simply", "channelId": "", "status": "candidate" },
-  { "name": "Crash Course Kids", "lang": "en", "focus": "Primary science series", "channelId": "", "status": "candidate" },
+  { "name": "SciShow Kids", "lang": "en", "focus": "Primary science explained simply", "channelId": "UCRFIPG2u1DxKLNuE3y2SjHA", "status": "approved" },
+  { "name": "Crash Course Kids", "lang": "en", "focus": "Primary science series", "channelId": "UCONtPx56PSebXJOxbFv-2jQ", "status": "approved" },
   { "name": "BookBox English", "lang": "en", "focus": "Animated stories with subtitles for early readers", "channelId": "", "status": "candidate" }
 ]
